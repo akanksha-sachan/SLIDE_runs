@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 SLIDE :Significant Latent Factor Interaction Discovery and Exploration across biological domains
 ============================================
  
@@ -53,3 +54,7 @@ CPU: 4+ cores, 3.3+ GHz/core
 
 
    
+=======
+# SLIDE_runs
+logging slide latent factor analysis runs on different datasets
+>>>>>>> origin/main
