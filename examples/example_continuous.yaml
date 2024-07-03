@@ -17,4 +17,5 @@ SLIDE_iter: 500
 SLIDE_top_feats: 10
 sampleCV_iter: 500
 sampleCV_K: 4
+CViter: 10
 do_interacts: TRUE

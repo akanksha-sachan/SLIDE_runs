@@ -1,21 +1,14 @@
----
 x_path: /ix/djishnu/Akanksha/SLIDE_git/examples/Ssc_x.csv
 y_path: /ix/djishnu/Akanksha/SLIDE_git/examples/SkinScore.csv
-out_path: /ix/djishnu/Akanksha/SLIDE_git/runs/systemic_sclerosis
-delta:
-  - 0.01
-lambda:
-  - 0.5
+out_path: /ix/djishnu/Akanksha/SLIDE_git/runs/systemic_sclerosis/0.01_0.5_out/
+delta: 0.01
+lambda: 0.5
 spec: 0.3
-y_factor: false
+y_factor: no
 thresh_fdr: 0.2
-y_levels: NULL
+y_levels: ~
 eval_type: corr
 SLIDE_iter: 500
 SLIDE_top_feats: 10
 CViter: 10
-do_interacts: TRUE
-
-
-
-
+do_interacts: yes
