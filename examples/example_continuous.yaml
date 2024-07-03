@@ -1,7 +1,7 @@
 ---
-x_path: examples/Ssc_x.csv
-y_path: examples/SkinScore.csv
-out_path: examples/out
+x_path: /ix/djishnu/Akanksha/SLIDE_git/examples/Ssc_x.csv
+y_path: /ix/djishnu/Akanksha/SLIDE_git/examples/SkinScore.csv
+out_path: /ix/djishnu/Akanksha/SLIDE_git/runs/systemic_sclerosis
 delta:
   - 0.01
   - 0.1
