@@ -1,5 +1,0 @@
-INFO  [2024-07-03 12:45:30] Starting script with YAML path: /ix/djishnu/Akanksha/SLIDE_git/examples/test.yaml
-INFO  [2024-07-03 12:45:30] Successfully loaded YAML file.
-INFO  [2024-07-03 12:45:30] Successfully ran checkDataParams.
-INFO  [2024-07-03 12:48:00] Successfully ran optimizeSLIDE.
-INFO  [2024-07-03 12:48:01] Successfully ran plotCorrelationNetworks.
