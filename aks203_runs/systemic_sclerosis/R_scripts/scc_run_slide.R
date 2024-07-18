@@ -63,7 +63,7 @@ tryCatch(
   }
 )
 
-# Run Cross Validation
+# Run Cross Validation based on the tuned hyper_params (delta and lambda)
 tryCatch(
   {
     SLIDE::SLIDEcv(yaml_path, nrep = 20, k = 5)
